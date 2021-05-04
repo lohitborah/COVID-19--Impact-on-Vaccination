@@ -1,5 +1,7 @@
 # COVID-19: Impact on Vaccination
 
+## Contents:
+
 1. COVID-19 in US: An Overview
 
 	a. Cases
@@ -20,9 +22,9 @@
 
 		ii. CVAC
 
-c. Identify potential areas of inhibition
+	c. Identify potential areas of inhibition
 
-	i. Hesitancy of vaccination
+		i. Hesitancy of vaccination
 
 d. Recommend solutions
  
